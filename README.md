@@ -1,6 +1,6 @@
 ### 👾 Hi there, welcome to my profile! 
 
-* 🤔 Were you looking for a programmer willing to learn everything, make whole apps from the ground up, build a dream team and make friends along the way? Well, here i am!
+* 🤔 Were you looking for a programmer willing to learn everything, make whole apps from the ground up, build a dream team and make friends along the way? Well, here I am!
 * 📚 Software Engineering Student at [University of Brasilia](https://unb.br).
 * 🖥 Lover of programming and great challenges!
 
